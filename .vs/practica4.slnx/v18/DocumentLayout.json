@@ -1,0 +1,393 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JHOVANA\\OneDrive\\Desktop\\practica4\\practica4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5497770E-17B1-2DF6-4A07-49F23BDA74C4}|practica4.csproj|c:\\users\\jhovana\\onedrive\\desktop\\practica4\\practica4\\ejercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5497770E-17B1-2DF6-4A07-49F23BDA74C4}|practica4.csproj|solutionrelative:ejercicio1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5497770E-17B1-2DF6-4A07-49F23BDA74C4}|practica4.csproj|c:\\users\\jhovana\\onedrive\\desktop\\practica4\\practica4\\practica4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5497770E-17B1-2DF6-4A07-49F23BDA74C4}|practica4.csproj|solutionrelative:practica4.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5497770E-17B1-2DF6-4A07-49F23BDA74C4}|practica4.csproj|c:\\users\\jhovana\\onedrive\\desktop\\practica4\\practica4\\ejercicio17.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5497770E-17B1-2DF6-4A07-49F23BDA74C4}|practica4.csproj|solutionrelative:ejercicio17.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5497770E-17B1-2DF6-4A07-49F23BDA74C4}|practica4.csproj|c:\\users\\jhovana\\onedrive\\desktop\\practica4\\practica4\\ejercicio15.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5497770E-17B1-2DF6-4A07-49F23BDA74C4}|practica4.csproj|solutionrelative:ejercicio15.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5497770E-17B1-2DF6-4A07-49F23BDA74C4}|practica4.csproj|c:\\users\\jhovana\\onedrive\\desktop\\practica4\\practica4\\ejercicio9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5497770E-17B1-2DF6-4A07-49F23BDA74C4}|practica4.csproj|solutionrelative:ejercicio9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5497770E-17B1-2DF6-4A07-49F23BDA74C4}|practica4.csproj|c:\\users\\jhovana\\onedrive\\desktop\\practica4\\practica4\\ejercicio8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5497770E-17B1-2DF6-4A07-49F23BDA74C4}|practica4.csproj|solutionrelative:ejercicio8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5497770E-17B1-2DF6-4A07-49F23BDA74C4}|practica4.csproj|c:\\users\\jhovana\\onedrive\\desktop\\practica4\\practica4\\ejercicio12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5497770E-17B1-2DF6-4A07-49F23BDA74C4}|practica4.csproj|solutionrelative:ejercicio12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5497770E-17B1-2DF6-4A07-49F23BDA74C4}|practica4.csproj|c:\\users\\jhovana\\onedrive\\desktop\\practica4\\practica4\\ejercicio11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5497770E-17B1-2DF6-4A07-49F23BDA74C4}|practica4.csproj|solutionrelative:ejercicio11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5497770E-17B1-2DF6-4A07-49F23BDA74C4}|practica4.csproj|c:\\users\\jhovana\\onedrive\\desktop\\practica4\\practica4\\ejercicio4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5497770E-17B1-2DF6-4A07-49F23BDA74C4}|practica4.csproj|solutionrelative:ejercicio4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5497770E-17B1-2DF6-4A07-49F23BDA74C4}|practica4.csproj|c:\\users\\jhovana\\onedrive\\desktop\\practica4\\practica4\\ejercicio13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5497770E-17B1-2DF6-4A07-49F23BDA74C4}|practica4.csproj|solutionrelative:ejercicio13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5497770E-17B1-2DF6-4A07-49F23BDA74C4}|practica4.csproj|c:\\users\\jhovana\\onedrive\\desktop\\practica4\\practica4\\ejercicio20.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5497770E-17B1-2DF6-4A07-49F23BDA74C4}|practica4.csproj|solutionrelative:ejercicio20.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5497770E-17B1-2DF6-4A07-49F23BDA74C4}|practica4.csproj|c:\\users\\jhovana\\onedrive\\desktop\\practica4\\practica4\\ejercicio5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5497770E-17B1-2DF6-4A07-49F23BDA74C4}|practica4.csproj|solutionrelative:ejercicio5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5497770E-17B1-2DF6-4A07-49F23BDA74C4}|practica4.csproj|c:\\users\\jhovana\\onedrive\\desktop\\practica4\\practica4\\ejercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5497770E-17B1-2DF6-4A07-49F23BDA74C4}|practica4.csproj|solutionrelative:ejercicio3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5497770E-17B1-2DF6-4A07-49F23BDA74C4}|practica4.csproj|c:\\users\\jhovana\\onedrive\\desktop\\practica4\\practica4\\ejercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5497770E-17B1-2DF6-4A07-49F23BDA74C4}|practica4.csproj|solutionrelative:ejercicio2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5497770E-17B1-2DF6-4A07-49F23BDA74C4}|practica4.csproj|c:\\users\\jhovana\\onedrive\\desktop\\practica4\\practica4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5497770E-17B1-2DF6-4A07-49F23BDA74C4}|practica4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5497770E-17B1-2DF6-4A07-49F23BDA74C4}|practica4.csproj|c:\\users\\jhovana\\onedrive\\desktop\\practica4\\practica4\\ejercicio10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5497770E-17B1-2DF6-4A07-49F23BDA74C4}|practica4.csproj|solutionrelative:ejercicio10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5497770E-17B1-2DF6-4A07-49F23BDA74C4}|practica4.csproj|c:\\users\\jhovana\\onedrive\\desktop\\practica4\\practica4\\ejercicio18.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5497770E-17B1-2DF6-4A07-49F23BDA74C4}|practica4.csproj|solutionrelative:ejercicio18.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5497770E-17B1-2DF6-4A07-49F23BDA74C4}|practica4.csproj|c:\\users\\jhovana\\onedrive\\desktop\\practica4\\practica4\\ejercicio14.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5497770E-17B1-2DF6-4A07-49F23BDA74C4}|practica4.csproj|solutionrelative:ejercicio14.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5497770E-17B1-2DF6-4A07-49F23BDA74C4}|practica4.csproj|c:\\users\\jhovana\\onedrive\\desktop\\practica4\\practica4\\ejercicio19.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5497770E-17B1-2DF6-4A07-49F23BDA74C4}|practica4.csproj|solutionrelative:ejercicio19.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5497770E-17B1-2DF6-4A07-49F23BDA74C4}|practica4.csproj|c:\\users\\jhovana\\onedrive\\desktop\\practica4\\practica4\\ejercicio6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5497770E-17B1-2DF6-4A07-49F23BDA74C4}|practica4.csproj|solutionrelative:ejercicio6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5497770E-17B1-2DF6-4A07-49F23BDA74C4}|practica4.csproj|c:\\users\\jhovana\\onedrive\\desktop\\practica4\\practica4\\ejercicio16.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5497770E-17B1-2DF6-4A07-49F23BDA74C4}|practica4.csproj|solutionrelative:ejercicio16.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5497770E-17B1-2DF6-4A07-49F23BDA74C4}|practica4.csproj|c:\\users\\jhovana\\onedrive\\desktop\\practica4\\practica4\\ejercicio7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5497770E-17B1-2DF6-4A07-49F23BDA74C4}|practica4.csproj|solutionrelative:ejercicio7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ejercicio9.cs",
+              "DocumentMoniker": "C:\\Users\\JHOVANA\\OneDrive\\Desktop\\practica4\\practica4\\ejercicio9.cs",
+              "RelativeDocumentMoniker": "ejercicio9.cs",
+              "ToolTip": "C:\\Users\\JHOVANA\\OneDrive\\Desktop\\practica4\\practica4\\ejercicio9.cs",
+              "RelativeToolTip": "ejercicio9.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T19:57:02.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "practica4",
+              "DocumentMoniker": "C:\\Users\\JHOVANA\\OneDrive\\Desktop\\practica4\\practica4\\practica4.csproj",
+              "RelativeDocumentMoniker": "practica4.csproj",
+              "ToolTip": "C:\\Users\\JHOVANA\\OneDrive\\Desktop\\practica4\\practica4\\practica4.csproj",
+              "RelativeToolTip": "practica4.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-07T02:37:25.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ejercicio12.cs",
+              "DocumentMoniker": "C:\\Users\\JHOVANA\\OneDrive\\Desktop\\practica4\\practica4\\ejercicio12.cs",
+              "RelativeDocumentMoniker": "ejercicio12.cs",
+              "ToolTip": "C:\\Users\\JHOVANA\\OneDrive\\Desktop\\practica4\\practica4\\ejercicio12.cs",
+              "RelativeToolTip": "ejercicio12.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwC4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T21:05:23.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ejercicio11.cs",
+              "DocumentMoniker": "C:\\Users\\JHOVANA\\OneDrive\\Desktop\\practica4\\practica4\\ejercicio11.cs",
+              "RelativeDocumentMoniker": "ejercicio11.cs",
+              "ToolTip": "C:\\Users\\JHOVANA\\OneDrive\\Desktop\\practica4\\practica4\\ejercicio11.cs",
+              "RelativeToolTip": "ejercicio11.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAQwD8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T20:35:43.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ejercicio8.cs",
+              "DocumentMoniker": "C:\\Users\\JHOVANA\\OneDrive\\Desktop\\practica4\\practica4\\ejercicio8.cs",
+              "RelativeDocumentMoniker": "ejercicio8.cs",
+              "ToolTip": "C:\\Users\\JHOVANA\\OneDrive\\Desktop\\practica4\\practica4\\ejercicio8.cs",
+              "RelativeToolTip": "ejercicio8.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwB0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T19:44:52.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ejercicio15.cs",
+              "DocumentMoniker": "C:\\Users\\JHOVANA\\OneDrive\\Desktop\\practica4\\practica4\\ejercicio15.cs",
+              "RelativeDocumentMoniker": "ejercicio15.cs",
+              "ToolTip": "C:\\Users\\JHOVANA\\OneDrive\\Desktop\\practica4\\practica4\\ejercicio15.cs",
+              "RelativeToolTip": "ejercicio15.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T22:29:06.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ejercicio17.cs",
+              "DocumentMoniker": "C:\\Users\\JHOVANA\\OneDrive\\Desktop\\practica4\\practica4\\ejercicio17.cs",
+              "RelativeDocumentMoniker": "ejercicio17.cs",
+              "ToolTip": "C:\\Users\\JHOVANA\\OneDrive\\Desktop\\practica4\\practica4\\ejercicio17.cs",
+              "RelativeToolTip": "ejercicio17.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T23:10:55.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ejercicio1.cs",
+              "DocumentMoniker": "C:\\Users\\JHOVANA\\OneDrive\\Desktop\\practica4\\practica4\\ejercicio1.cs",
+              "RelativeDocumentMoniker": "ejercicio1.cs",
+              "ToolTip": "C:\\Users\\JHOVANA\\OneDrive\\Desktop\\practica4\\practica4\\ejercicio1.cs",
+              "RelativeToolTip": "ejercicio1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T14:30:58.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ejercicio4.cs",
+              "DocumentMoniker": "C:\\Users\\JHOVANA\\OneDrive\\Desktop\\practica4\\practica4\\ejercicio4.cs",
+              "RelativeDocumentMoniker": "ejercicio4.cs",
+              "ToolTip": "C:\\Users\\JHOVANA\\OneDrive\\Desktop\\practica4\\practica4\\ejercicio4.cs",
+              "RelativeToolTip": "ejercicio4.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T18:36:48.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ejercicio13.cs",
+              "DocumentMoniker": "C:\\Users\\JHOVANA\\OneDrive\\Desktop\\practica4\\practica4\\ejercicio13.cs",
+              "RelativeDocumentMoniker": "ejercicio13.cs",
+              "ToolTip": "C:\\Users\\JHOVANA\\OneDrive\\Desktop\\practica4\\practica4\\ejercicio13.cs",
+              "RelativeToolTip": "ejercicio13.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwCgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T21:37:26.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ejercicio3.cs",
+              "DocumentMoniker": "C:\\Users\\JHOVANA\\OneDrive\\Desktop\\practica4\\practica4\\ejercicio3.cs",
+              "RelativeDocumentMoniker": "ejercicio3.cs",
+              "ToolTip": "C:\\Users\\JHOVANA\\OneDrive\\Desktop\\practica4\\practica4\\ejercicio3.cs",
+              "RelativeToolTip": "ejercicio3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T18:12:27.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ejercicio20.cs",
+              "DocumentMoniker": "C:\\Users\\JHOVANA\\OneDrive\\Desktop\\practica4\\practica4\\ejercicio20.cs",
+              "RelativeDocumentMoniker": "ejercicio20.cs",
+              "ToolTip": "C:\\Users\\JHOVANA\\OneDrive\\Desktop\\practica4\\practica4\\ejercicio20.cs",
+              "RelativeToolTip": "ejercicio20.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-07T00:17:56.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ejercicio5.cs",
+              "DocumentMoniker": "C:\\Users\\JHOVANA\\OneDrive\\Desktop\\practica4\\practica4\\ejercicio5.cs",
+              "RelativeDocumentMoniker": "ejercicio5.cs",
+              "ToolTip": "C:\\Users\\JHOVANA\\OneDrive\\Desktop\\practica4\\practica4\\ejercicio5.cs",
+              "RelativeToolTip": "ejercicio5.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T18:57:02.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ejercicio2.cs",
+              "DocumentMoniker": "C:\\Users\\JHOVANA\\OneDrive\\Desktop\\practica4\\practica4\\ejercicio2.cs",
+              "RelativeDocumentMoniker": "ejercicio2.cs",
+              "ToolTip": "C:\\Users\\JHOVANA\\OneDrive\\Desktop\\practica4\\practica4\\ejercicio2.cs",
+              "RelativeToolTip": "ejercicio2.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T17:48:35.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JHOVANA\\OneDrive\\Desktop\\practica4\\practica4\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\JHOVANA\\OneDrive\\Desktop\\practica4\\practica4\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T14:21:43.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ejercicio10.cs",
+              "DocumentMoniker": "C:\\Users\\JHOVANA\\OneDrive\\Desktop\\practica4\\practica4\\ejercicio10.cs",
+              "RelativeDocumentMoniker": "ejercicio10.cs",
+              "ToolTip": "C:\\Users\\JHOVANA\\OneDrive\\Desktop\\practica4\\practica4\\ejercicio10.cs",
+              "RelativeToolTip": "ejercicio10.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T20:22:02.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ejercicio18.cs",
+              "DocumentMoniker": "C:\\Users\\JHOVANA\\OneDrive\\Desktop\\practica4\\practica4\\ejercicio18.cs",
+              "RelativeDocumentMoniker": "ejercicio18.cs",
+              "ToolTip": "C:\\Users\\JHOVANA\\OneDrive\\Desktop\\practica4\\practica4\\ejercicio18.cs",
+              "RelativeToolTip": "ejercicio18.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwCcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T23:32:59.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ejercicio14.cs",
+              "DocumentMoniker": "C:\\Users\\JHOVANA\\OneDrive\\Desktop\\practica4\\practica4\\ejercicio14.cs",
+              "RelativeDocumentMoniker": "ejercicio14.cs",
+              "ToolTip": "C:\\Users\\JHOVANA\\OneDrive\\Desktop\\practica4\\practica4\\ejercicio14.cs",
+              "RelativeToolTip": "ejercicio14.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T21:56:06.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ejercicio19.cs",
+              "DocumentMoniker": "C:\\Users\\JHOVANA\\OneDrive\\Desktop\\practica4\\practica4\\ejercicio19.cs",
+              "RelativeDocumentMoniker": "ejercicio19.cs",
+              "ToolTip": "C:\\Users\\JHOVANA\\OneDrive\\Desktop\\practica4\\practica4\\ejercicio19.cs",
+              "RelativeToolTip": "ejercicio19.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T23:58:50.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ejercicio6.cs",
+              "DocumentMoniker": "C:\\Users\\JHOVANA\\OneDrive\\Desktop\\practica4\\practica4\\ejercicio6.cs",
+              "RelativeDocumentMoniker": "ejercicio6.cs",
+              "ToolTip": "C:\\Users\\JHOVANA\\OneDrive\\Desktop\\practica4\\practica4\\ejercicio6.cs",
+              "RelativeToolTip": "ejercicio6.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T19:11:31.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ejercicio16.cs",
+              "DocumentMoniker": "C:\\Users\\JHOVANA\\OneDrive\\Desktop\\practica4\\practica4\\ejercicio16.cs",
+              "RelativeDocumentMoniker": "ejercicio16.cs",
+              "ToolTip": "C:\\Users\\JHOVANA\\OneDrive\\Desktop\\practica4\\practica4\\ejercicio16.cs",
+              "RelativeToolTip": "ejercicio16.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T22:52:27.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ejercicio7.cs",
+              "DocumentMoniker": "C:\\Users\\JHOVANA\\OneDrive\\Desktop\\practica4\\practica4\\ejercicio7.cs",
+              "RelativeDocumentMoniker": "ejercicio7.cs",
+              "ToolTip": "C:\\Users\\JHOVANA\\OneDrive\\Desktop\\practica4\\practica4\\ejercicio7.cs",
+              "RelativeToolTip": "ejercicio7.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-06T19:29:23.446Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+	<StartupObject>practica4.Program</StartupObject>
+	<StartupObject>practica4.ejercicio20</StartupObject>
+  </PropertyGroup>
+	
+
+</Project>
